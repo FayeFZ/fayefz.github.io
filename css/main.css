@@ -873,12 +873,10 @@ h2 i[class^="icon-"], h2 i[class*=" icon-"], h2 i.fa {
 .testo {
  position: relative; padding: 1.4em 2.2em; margin: 0 16px 40px 0; background: #F0F4F7; border-radius: 6px;
 	}
-/*.testo:before {
- 	display: block; content: "\f10d"; line-height: 1; font-size: 14px; position: absolute; left: 10px; top: 12px; color: #fff; border: 3px solid #FFF; padding: 4px 6px; border-radius: 50%;
-	}*/
-	/*.testo img {
- 		display: block; float: right; max-width: 100px; border-radius: 50%; margin: -40px -60px 10px 20px; border: 8px solid #fff;
-		}*/
+
+	.testo img {
+ 		display: block; max-width: 400px;
+		}
 	.testo h4 {
 		position: relative; margin: 0; text-transform: uppercase; font-weight: 900; color: #6A7686;
 		}
@@ -1235,7 +1233,7 @@ h2 i[class^="icon-"], h2 i[class*=" icon-"], h2 i.fa {
 
 	
 
-	.media-box .mask.promo:before {  content: "UX Design";}
+	.media-box .mask.promo:before {  content: "2021 Duo Mobile";}
 	.media-box .mask.soldout:before {  content: "UX Design";}
 	.media-box .mask.petbook:before {  content: "UX Design";}
 	.media-box .mask.website:before {  content: "Web Design";}
@@ -2553,7 +2551,7 @@ a.more-link:hover {
 		margin-bottom: 20px; 
 		}
 	.testo img {
-		float: none; margin: -80px auto 10px auto; max-width: 88px; border-width: 0px;
+		float: none; margin: auto; max-width: 260px; border-width: 0px;
 		}
 	.testo h4 {
 		text-align: center;
