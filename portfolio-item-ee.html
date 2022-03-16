@@ -53,7 +53,9 @@
         crossorigin="anonymous"></script>
 
         <script type=text/javascript>
-            function goPassword() {
+            function goPassword(e) {
+		e.preventDefault();
+
                 console.log('hello');
                 window.location.href = document.getElementById('pass').value + ".html";
             }
@@ -67,8 +69,8 @@
 <div class="row mt-5">
     <div class="col-md-4"></div>
     <div class="col-md-4 pt-5">
-        <form onsubmit="goPassword()" class="pt-5">
-            <input type=text id=pass placeholder="Enter password"> <input type=button onclick="goPassword()" value=">>">
+        <form action="#" onsubmit="goPassword(event)" class="pt-5">
+            <input type=text id=pass placeholder="Enter password"> <input type=button onclick="goPassword(event)" value=">>">
         </form>
     </div>
     <div class="col-md-4"></div>
