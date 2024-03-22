@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="657px" height="828px" viewBox="0 0 657 828" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FeiZhao_reusme</title>
+    <defs>
+        <rect id="path-1" x="22" y="14" width="612" height="792"></rect>
+        <filter x="-4.9%" y="-3.0%" width="109.8%" height="107.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.891247736   0 0 0 0 0.891247736   0 0 0 0 0.891247736  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="FeiZhao_reusme" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="657" height="828"></rect>
+        <g id="Rectangle">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <text id="Duo-Mobile,-Cisco" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" line-spacing="18" fill="#212121">
+            <tspan x="209" y="205">Duo Mobile, Cisco</tspan>
+        </text>
+        <text id="Creating-design-solu" opacity="0.898018973" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" line-spacing="15" fill="#000000">
+            <tspan x="209" y="226">Creating design solutions for Duo mobile 4.0 experience. Responsible for </tspan>
+            <tspan x="209" y="241">overall UX vision, design, and implementation for the Android mobile application.</tspan>
+        </text>
+        <text id="2018-—-2021" opacity="0.5" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" line-spacing="15" fill="#000000">
+            <tspan x="125.140625" y="226">2018 — 2021</tspan>
+        </text>
+        <text id="Product-Designer" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" line-spacing="18" fill="#212121">
+            <tspan x="80.9526367" y="205">Product Designer</tspan>
+        </text>
+        <text id="Designed-core-featur" opacity="0.898018973" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" line-spacing="15" fill="#000000">
+            <tspan x="209" y="304">Designed core features on the Duo Admin Panel, including cloud &amp; on-prem </tspan>
+            <tspan x="209" y="319">directory syncing experience. Conducted research and created journey maps for </tspan>
+            <tspan x="209" y="334">enterprise customer enrollment experience.</tspan>
+            <tspan x="407.173828" y="334" font-family="Avenir-Light, Avenir"> </tspan>
+        </text>
+        <text id="Duo-Admin-Panel,-Cis" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" line-spacing="18" fill="#212121">
+            <tspan x="209" y="283">Duo Admin Panel, Cisco</tspan>
+        </text>
+        <text id="Led-the-research-and" opacity="0.898018973" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" line-spacing="15" fill="#000000">
+            <tspan x="209" y="398">Led the research and design for the Lincoln Global Order Entry web application.</tspan>
+            <tspan x="209" y="413">Designed and launched the vehicle trading feature to enable Lincoln car dealers'</tspan>
+            <tspan x="209" y="428">inventory sharing. Partnered with Product and Engineering to formulate product</tspan>
+            <tspan x="209" y="443">requirements and strategy.   </tspan>
+        </text>
+        <text id="Ford" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" line-spacing="18" fill="#212121">
+            <tspan x="209" y="377">Ford</tspan>
+        </text>
+        <text id="Designed-features-fo" opacity="0.898018973" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" line-spacing="15" fill="#000000">
+            <tspan x="209" y="506">Designed features for the e-commerce checkout experience, such as the </tspan>
+            <tspan x="209" y="521">promotion system and shopping cart. Created service blueprints &amp; journey maps </tspan>
+            <tspan x="209" y="536">for improving the omnichannel shopping experience.   </tspan>
+        </text>
+        <text id="Abercrombie-&amp;-Fitch" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" line-spacing="18" fill="#212121">
+            <tspan x="209" y="485">Abercrombie &amp; Fitch</tspan>
+        </text>
+        <text id="2016-—-2017" opacity="0.5" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" line-spacing="15" fill="#000000">
+            <tspan x="125.140625" y="506">2016 — 2017</tspan>
+        </text>
+        <text id="UX-Designer" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" line-spacing="18" fill="#212121">
+            <tspan x="111.694336" y="485">UX Designer</tspan>
+        </text>
+        <text id="2017—-2018" opacity="0.5" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" line-spacing="15" fill="#000000">
+            <tspan x="127.738281" y="398">2017— 2018</tspan>
+        </text>
+        <text id="Product--Designer" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" line-spacing="18" fill="#212121">
+            <tspan x="77.5756836" y="377">Product  Designer</tspan>
+        </text>
+        <text id="Redesigned-Y-app---a" opacity="0.898018973" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" line-spacing="15" fill="#000000">
+            <tspan x="209" y="599">Redesigned Y app - an HR management mobile application. Created marketing</tspan>
+            <tspan x="209" y="614">strategy and assets for showcasing the next generation Y app. </tspan>
+        </text>
+        <text id="Lifion-by-ADP" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" line-spacing="18" fill="#212121">
+            <tspan x="209" y="578">Lifion by ADP</tspan>
+        </text>
+        <text id="2015" opacity="0.5" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" line-spacing="15" fill="#000000">
+            <tspan x="163.167969" y="599">2015</tspan>
+        </text>
+        <text id="2015" opacity="0.5" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" line-spacing="15" fill="#000000">
+            <tspan x="163.167969" y="691">2015</tspan>
+        </text>
+        <text id="2014" opacity="0.5" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" line-spacing="15" fill="#000000">
+            <tspan x="163.167969" y="713">2014</tspan>
+        </text>
+        <text id="UX-Design-Intern" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" line-spacing="18" fill="#212121">
+            <tspan x="84.1455078" y="578">UX Design Intern</tspan>
+        </text>
+        <text id="Master-of-Science-in" opacity="0.9" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" line-spacing="18" fill="#000000">
+            <tspan x="209" y="692">Master of Science in Information, HCI</tspan>
+        </text>
+        <text id="Master-of-Landscape" opacity="0.9" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" line-spacing="18" fill="#000000">
+            <tspan x="209" y="714">Master of Landscape Architecture</tspan>
+        </text>
+        <text id="University-of-Michig" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" line-spacing="15" fill="#000000">
+            <tspan x="209" y="735">University of Michigan, Ann Arbor, MI </tspan>
+        </text>
+        <text id="EDUCATION" opacity="0.45" font-family="OpenSans-Light, Open Sans" font-size="12" font-weight="300" fill="#000000">
+            <tspan x="209" y="663">EDUCATION</tspan>
+        </text>
+        <text id="EXPERIENCE" opacity="0.45" font-family="OpenSans-Light, Open Sans" font-size="12" font-weight="300" fill="#000000">
+            <tspan x="209" y="175">EXPERIENCE</tspan>
+        </text>
+        <text id="Fei-Zhao" opacity="0.9" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="209" y="96">Fei Zhao</tspan>
+        </text>
+        <text id="lazhaofei@gmail.com" opacity="0.9" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" letter-spacing="0.01" fill="#000000">
+            <tspan x="209" y="124">lazhaofei@gmail.com    |    ww</tspan>
+            <tspan x="344.480664" y="124" letter-spacing="-0.54">w</tspan>
+            <tspan x="350.771719" y="124">.feizhao.me    |    734.604.6198</tspan>
+        </text>
+        <image id="Image-56" x="76.7625898" y="54" width="108.99281" height="101" xlink:href="data:image/png;base64,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"></image>
+    </g>
+</svg>
